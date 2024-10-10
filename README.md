@@ -10,5 +10,4 @@ So we buy their cures:&emsp;<img src="https://github.com/user-attachments/assets
 While they suppress our medicine:&emsp;<img src="https://github.com/user-attachments/assets/ade41889-2d48-4d79-ad2d-5239a0713a20" height="20">
 
 
-
-
+<h6>(This is a joke please still hire me Docker/Amazon)<h6>
